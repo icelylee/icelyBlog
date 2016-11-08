@@ -1,0 +1,17 @@
+{
+  "name": "icelyBlog",
+  "description": "my test blog",
+  "main": "index.js",
+  "authors": [
+    "icelylee <2102136577@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
